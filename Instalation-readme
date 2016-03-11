@@ -1,0 +1,10 @@
+using all binary files
+
+* logstash - 2.2.2
+* elasticsearch - 2.2.0
+* kibana - 4.4.1
+* filebeat - 1.1.1
+
+* used openjdk - while configuring mail faced some issues related Duppublickey algorithm so switched to Oracle jdk 8 now its working fine :)
+
+
