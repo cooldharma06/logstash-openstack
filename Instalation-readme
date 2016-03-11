@@ -5,6 +5,12 @@ using all binary files
 * kibana - 4.4.1
 * filebeat - 1.1.1
 
-* used openjdk - while configuring mail faced some issues related Duppublickey algorithm so switched to Oracle jdk 8 now its working fine :)
+multi line are used in filters and its in outputsection of logstash. we can use filebeat also to send multiline events
+to single line events.
+
+* used openjdk - while configuring mail faced some issues related "Duppublickey algorithm error" & "OpensSSL error"
+so switched to Oracle jdk 8 now its working fine :)
+
+
 
 
